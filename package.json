@@ -1,0 +1,18 @@
+{
+  "name": "autoex",
+  "version": "1.0.0",
+  "description": "Material Design for Bootstrap",
+  "main": "\u001b[D\u001b[D\u001b[C\u001b[D\u001b[C\u001bhtml)",
+  "scripts": {
+    "test": "echo \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "autoex"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
